@@ -1,0 +1,9 @@
+# pod
+MPAntUIDemo_pod/MPFrameworkDemo_pod.xcworkspace
+MPAntUIDemo_pod/Podfile.lock
+MPAntUIDemo_pod/Pods
+MPAntUIDemo_pod/MPFrameworkDemo_pod.xcodeproj/project.xcworkspace
+MPAntUIDemo_pod/MPFrameworkDemo_pod.xcodeproj/xcuserdata
+
+#plugin
+MPAntUIDemo_plugin/MPaaS/Frameworks/

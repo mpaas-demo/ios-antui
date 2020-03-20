@@ -1,0 +1,14 @@
+//
+//  MPAntUIDemo_pod-Prefix.pch
+//  MPAntUIDemo_pod
+//
+//  Created by yangwei on 2019/03/27.
+
+// MPAAS HEADERS BEGIN
+// This part is maintained by MPaaS plugin automatically. 
+#ifdef __OBJC__
+
+#import "MPAntUIDemo_pod-mPaaS-Headers.h"
+#import "MPAntUIDemoDef.h"
+#endif
+// MPAAS HEADERS END

@@ -1,0 +1,22 @@
+//
+//  MPAntUIDemo_plugin-Prefix.pch
+//  MPAntUIDemo_plugin
+//
+//  Created by vivi.yw on 2019/03/28.
+//  Copyright © 2019 Alibaba. All rights reserved.
+//
+
+#ifndef Mpaas_Prefix_Header_pch
+#define Mpaas_Prefix_Header_pch
+
+// This part is maintained by MPaaS plugin automatically.
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "MPAntUIDemo_plugin-mPaaS-Headers.h"
+
+#import "MPAntUIDemoDef.h"
+#endif
+
+#endif /* Mpaas_Prefix_Header_pch */
